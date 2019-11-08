@@ -1,0 +1,14 @@
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject33\bin\Debug\ConsoleProject33.exe.config
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject33\bin\Debug\ConsoleProject33.exe
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject33\bin\Debug\ConsoleProject33.pdb
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.csprojAssemblyReference.cache
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.csproj.CoreCompileInputs.cache
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.exe
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.pdb
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.csprojAssemblyReference.cache
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.csproj.CoreCompileInputs.cache
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.exe
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject33\obj\Debug\ConsoleProject33.pdb
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject33\bin\Debug\ConsoleProject33.exe.config
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject33\bin\Debug\ConsoleProject33.exe
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject33\bin\Debug\ConsoleProject33.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject41\bin\Debug\ConsoleProject41.exe.config
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject41\bin\Debug\ConsoleProject41.exe
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject41\bin\Debug\ConsoleProject41.pdb
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject41\obj\Debug\ConsoleProject41.csproj.CoreCompileInputs.cache
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject41\obj\Debug\ConsoleProject41.exe
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject41\obj\Debug\ConsoleProject41.pdb
+C:\Users\Gulsum\Desktop\01072019_ConsoleApp\ConsoleProject41\obj\Debug\ConsoleProject41.csprojAssemblyReference.cache

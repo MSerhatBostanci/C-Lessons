@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\01072019_ConsoleApp\ConsoleProject2\obj\Debug\ConsoleProject2.csprojAssemblyReference.cache
+c:\users\section2\source\repos\01072019_ConsoleApp\ConsoleProject2\obj\Debug\ConsoleProject2.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\01072019_ConsoleApp\ConsoleProject2\bin\Debug\ConsoleProject2.exe.config
+c:\users\section2\source\repos\01072019_ConsoleApp\ConsoleProject2\bin\Debug\ConsoleProject2.exe
+c:\users\section2\source\repos\01072019_ConsoleApp\ConsoleProject2\bin\Debug\ConsoleProject2.pdb
+c:\users\section2\source\repos\01072019_ConsoleApp\ConsoleProject2\obj\Debug\ConsoleProject2.exe
+c:\users\section2\source\repos\01072019_ConsoleApp\ConsoleProject2\obj\Debug\ConsoleProject2.pdb

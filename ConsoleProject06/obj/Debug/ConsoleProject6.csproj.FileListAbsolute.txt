@@ -1,0 +1,6 @@
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject6\bin\Debug\ConsoleProject6.exe.config
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject6\bin\Debug\ConsoleProject6.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject6\bin\Debug\ConsoleProject6.pdb
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject6\obj\Debug\ConsoleProject6.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject6\obj\Debug\ConsoleProject6.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject6\obj\Debug\ConsoleProject6.pdb

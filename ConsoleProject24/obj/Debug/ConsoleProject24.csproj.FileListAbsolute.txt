@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject24\bin\Debug\ConsoleProject24.exe.config
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject24\bin\Debug\ConsoleProject24.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject24\bin\Debug\ConsoleProject24.pdb
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject24\obj\Debug\ConsoleProject24.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject24\obj\Debug\ConsoleProject24.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject24\obj\Debug\ConsoleProject24.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject24\obj\Debug\ConsoleProject24.pdb

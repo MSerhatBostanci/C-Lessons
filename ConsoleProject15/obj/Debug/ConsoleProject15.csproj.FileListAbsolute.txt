@@ -1,0 +1,14 @@
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject15\bin\Debug\ConsoleProject15.exe.config
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject15\bin\Debug\ConsoleProject15.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject15\bin\Debug\ConsoleProject15.pdb
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.pdb
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject15\bin\Debug\ConsoleProject15.exe.config
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject15\bin\Debug\ConsoleProject15.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject15\bin\Debug\ConsoleProject15.pdb
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject15\obj\Debug\ConsoleProject15.pdb

@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject22\bin\Debug\ConsoleProject22.exe.config
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject22\bin\Debug\ConsoleProject22.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject22\bin\Debug\ConsoleProject22.pdb
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject22\obj\Debug\ConsoleProject22.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject22\obj\Debug\ConsoleProject22.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject22\obj\Debug\ConsoleProject22.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject22\obj\Debug\ConsoleProject22.pdb
